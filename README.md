@@ -5,9 +5,9 @@ Car Plate Register System - Java
 
 ## Team members
 
-Leader and Tester : @Kavalali  
+Team Leader, Tester : @Kavalali  
 
-Desgin and Back-end : @Meczup ==> Java-mysql 
+Business Class Designer : @Meczup ==> Java-mysql 
 
 Documentation : @Meczup
 
